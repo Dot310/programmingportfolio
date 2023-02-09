@@ -5,6 +5,6 @@
 ### Calculator
 OOP Graphical Calculator built in Processing 4
 
-![Running Calculator]([)](https://raw.githubusercontent.com/Dot310/programmingportfolio/704c4ef7e6fdc17520e29bf0eda386b6b865f381/images/calc.png)
+![Running Calculator](https://github.com/Dot310/programmingportfolio/blob/main/images/calc.png?raw=true)
 
 [Calculator Source Code]()
