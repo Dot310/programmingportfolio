@@ -12,6 +12,6 @@ OOP Graphical Calculator built in Processing 4
 ### Space Game
 OOP Graphical Space Game built in Processing 4
 
-![Running Calculator](https://github.com/Dot310/programmingportfolio/blob/main/images/Space.png?raw=true)
+![Running Space Game](https://github.com/Dot310/programmingportfolio/blob/main/images/Space.png?raw=true)
 
-[Calculator Source Code](https://github.com/Dot310/programmingportfolio/blob/main/src/spaceGame.pde)
+[Space Game Source Code](https://github.com/Dot310/programmingportfolio/blob/main/src/spaceGame.pde)
