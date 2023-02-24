@@ -27,4 +27,4 @@ OOP Graphical Cars built in Processing 4
 OOP Graphical Pig Lattin build in replit
 ![Running Pig Lattin Game](https://github.com/Dot310/programmingportfolio/blob/main/images/PigLattin.png?raw=true)
 
-[Pig Lattin game source code](
+[Pig Lattin game source code](https://github.com/Dot310/programmingportfolio/blob/main/images/PigLattin.png?raw=true)
