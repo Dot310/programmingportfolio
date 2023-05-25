@@ -28,3 +28,10 @@ OOP Graphical Pig Lattin build in replit
 ![Running Pig Lattin Game](https://github.com/Dot310/programmingportfolio/blob/main/images/PigLattin.png?raw=true)
 
 [Pig Lattin game source code](https://github.com/Dot310/programmingportfolio/blob/main/images/PigLattin.png?raw=true)
+
+###FishGame
+OOP Graphical fish game build in processing 
+![Running fish Game](https://github.com/Dot310/programmingportfolio/blob/main/images/figh%20game.png)
+
+[fish game source code](https://github.com/Dot310/programmingportfolio/tree/main/src/FishGame)
+
